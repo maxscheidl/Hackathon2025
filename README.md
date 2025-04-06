@@ -7,7 +7,7 @@ To set up this project you first have to download the dataset from orderfox and 
 ### Quick Start
 
 1. Install Dependencies
-2. Load `index.pkl` file into the `index` folder.
+2. Load `index.pkl` file into the `index` folder at the top level. The pickle file can be found here: [Google Drive Link]([https://www.genome.gov/](https://drive.google.com/drive/folders/1dLCFYZar2n4ENVklJVnrsUFZIqSv3B37?usp=sharing)
 3. Run `streamlit run app.py` to start the interactive UI.
 
 ## From Scratch
