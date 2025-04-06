@@ -1,5 +1,9 @@
 # Hackathon 2025 Bruteforcers
 
+<video width="320" height="240" controls>
+  <source src="GieniDemo.mp4" type="video/mp4">
+</video>
+
 ## How to run
 
 To set up this project you first have to download the dataset from orderfox and place all the JSON files in the `hackathon_data/` folder. 
