@@ -1,7 +1,7 @@
 # Hackathon 2025 Bruteforcers
 
 <video width="320" height="240" controls>
-  <source src="GieniDemo.mp4" type="video/mp4">
+  <source src="Gieni Demo.mp4" type="video/mp4">
 </video>
 
 ## How to run
