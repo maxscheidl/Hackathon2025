@@ -145,8 +145,7 @@ if "api_key" in st.session_state:
             # this is the case where we enter the retrievers but the query is unrelated
             if len(chat.sources) > 0 and len(chat.source_nodes) == 0:
                 print_text = (
-                    "I am unable to find any relevant information on this topic. Are you sure the query is related "
-                    "to the manual? Please try again.")
+                    "I am unable to find any relevant information on this topic. Please clarify your question!")
 
             # data = {"Document": [], "Title": []}  # keep the order
             # seen_pairs = set()
