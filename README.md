@@ -4,6 +4,14 @@
 
 To set up this project you first have to download the dataset from orderfox and place all the JSON files in the `hackathon_data/` folder. 
 
+### Quick Start
+
+1. Install Dependencies
+2. Load `index.pkl` file into the `index` folder.
+3. Run `streamlit run app.py` to start the interactive UI.
+
+## From Scratch
+
 ### Install dependencies
 
 ### 1. Data Cleaning
